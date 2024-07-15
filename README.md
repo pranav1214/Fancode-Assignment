@@ -1,6 +1,6 @@
-Prerequisites
-Python (3.9.6 or later)
-pip (Python package installer)
+# Prerequisites
+**Python (3.9.6 or later)**
+**pip (Python package installer)**
 
 Setup
 
