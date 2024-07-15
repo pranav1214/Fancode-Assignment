@@ -2,9 +2,9 @@
 **Python (3.9.6 or later)**
 **pip (Python package installer)**
 
-Setup
+## Setup
 
-Clone the repository
+### Clone the repository
 
 Create a virtual environment:
 python -m venv venv
