@@ -22,6 +22,7 @@
 
 - **Execution:**
 ```python main.py```
+```pytest```
 
 **Contact**
 ***Pranav Mestry - pranav1214@gmail.com***
