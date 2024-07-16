@@ -20,8 +20,10 @@
 - **Install the required packages:**
 ```pip install -r requirements.txt```
 
-- **Execution:**
+- **Execution of code:**
 ```python main.py```
+
+- **Execution of test:**
 ```pytest```
 
 **Contact**
